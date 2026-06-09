@@ -6,3 +6,6 @@ Cabinet21 (پوشه اصلی پروژه)
 ├── package.json      (لیست ابزارها و پکیج‌های نصب شده)
 ├── next.config.js    (تنظیمات خود نکست‌جی‌اس)
 └── jsconfig.json     (یا tsconfig.json برای تنظیمات مسیردهی کدهایتان)
+
+ران کردن پروژه
+npm run dev
