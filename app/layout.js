@@ -54,8 +54,8 @@ export default function RootLayout({ children }) {
             </div>
             <div>
               <h3 className="text-lg font-bold text-white mb-4">ارتباط با ما</h3>
-              <p className="text-sm text-slate-400 leading-relaxed mb-2">مازندران، بابل</p>
-              <p className="text-sm text-amber-500 font-semibold">اینستاگرام: @cabinet_21</p>
+              <p className="text-sm text-slate-400 leading-relaxed mb-2">مازندران</p>
+              <p className="text-sm text-amber-500 font-semibold">اینستاگرام: @cabinet.21</p>
             </div>
           </div>
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-8 pt-8 border-t border-slate-800/60 text-center text-xs text-slate-500">
